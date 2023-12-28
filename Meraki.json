@@ -7,36 +7,12 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Autumn%20MountainsThumb.png",
 	"collections":"Digital Art"
 	},
-  {
-	"name": "Beige Landscape",
+ {
+	"name": "CrashCourse",
 	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Beige%20Landscape.png",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/CrashCourse.png",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Beige%20LandscapeThumb.png",
-	"collections":"Digital Art"
-	},
-  {
-	"name": "Beige Mountains",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Beige%20Mountains.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Beige%20MountainsThumb.png",
-	"collections":"Digital Art"
-	},
-  {
-	"name": "Autumn Forest",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Autumn%Forest.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Autumn%20ForestThumb.png",
-	"collections":"Realistic"
-	},
-  {
-	"name": "Aurora",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Aurora.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/AuroraThumb.png",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/CrashCourseThumb.png",
 	"collections":"Digital Art"
 	},
   {
@@ -80,11 +56,11 @@
 	"collections":"Realistic"
 	},
   {
-	"name": "CrashCourse",
+	"name": "Beige Landscape",
 	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/CrashCourse.png",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Beige%20Landscape.png",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/CrashCourseThumb.png",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Beige%20LandscapeThumb.png",
 	"collections":"Digital Art"
 	},
 {
@@ -94,6 +70,14 @@
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Beautiful%20DayThumb.png",
 	"collections":"Realistic"
+	},
+	{
+	"name": "Outer Worlds",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Outer%20Worlds.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Outer%20WorldsThumb.png",
+	"collections":"Outer Space"
 	},
   {
 	"name": "Chilling",
@@ -111,12 +95,36 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Christmas%20PineThumb.png",
 	"collections":"Realistic"
 	},
+	  {
+	"name": "Autumn Forest",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Autumn%Forest.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Autumn%20ForestThumb.png",
+	"collections":"Realistic"
+	},
 {
 	"name": "Crashing Waves",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Crashing%20Waves.png",
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Crashing%20WavesThumb.png",
+	"collections":"Digital Art"
+	},
+{
+	"name": "Field Day",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Field%20Day.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Field%20DayThumb.png",
+	"collections":"Digital Art"
+	},
+	  {
+	"name": "Layered Queen",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Layered%20Queen.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Layered%20QueenThumb.png",
 	"collections":"Digital Art"
 	},
   {
@@ -167,6 +175,14 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Cute%20KayakThumb.png",
 	"collections":"Digital Art"
 	},
+{
+	"name": "Aurora",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Aurora.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/AuroraThumb.png",
+	"collections":"Digital Art"
+	},
   {
 	"name": "Darkness",
 	"author": "Yash",
@@ -215,6 +231,14 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/DunesThumb.png",
 	"collections":"Realistic"
 	},
+	  {
+	"name": "Beige Mountains",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Beige%20Mountains.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Beige%20MountainsThumb.png",
+	"collections":"Digital Art"
+	},
   {
 	"name": "Fall Colors",
 	"author": "Yash",
@@ -253,14 +277,6 @@
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Fall%20Landscape.png",
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Fall%20LandscapeThumb.png",
-	"collections":"Digital Art"
-	},
-  {
-	"name": "Field Day",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Field%20Day.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Field%20DayThumb.png",
 	"collections":"Digital Art"
 	},
   {
@@ -343,6 +359,14 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Golden%20PavementThumb.png",
 	"collections":"Digital Art"
 	},
+	{
+	"name": "Minimalism",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minimalism.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/MinimalismThumb.png",
+	"collections":"Realistic"
+	},
   {
 	"name": "Forest",
 	"author": "Yash",
@@ -374,6 +398,14 @@
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/grassThumb.png",
 	"collections":"Digital Art"
+	},
+	{
+	"name": "Spaceship",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Spaceship.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SpaceshipThumb.png",
+	"collections":"Outer Space"
 	},
 {
 	"name": "Gushing Water",
@@ -439,13 +471,13 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Green%20SceneryThumb.png",
 	"collections":"Digital Art"
 	},
-{
-	"name": "Minimalism",
+	  {
+	"name": "Minimal Building",
 	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minimalism.png",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minimal%20Building.png",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/MinimalismThumb.png",
-	"collections":"Realistic"
+    "thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Minimal%20BuildingThumb.png",
+	"collections":"Architecture"
 	},
   {
 	"name": "Greenview",
@@ -511,6 +543,14 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Japanese%20GardenThumb.png",
 	"collections":"Digital Art"
 	},
+	  {
+	"name": "Fiery Girraffe",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Fiery%20Girraffe.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Fiery%20GirraffeThumb.png",
+	"collections":"Animals"
+	},
   {
 	"name": "Pastel Beach",
 	"author": "Yash",
@@ -542,6 +582,14 @@
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Pastel%20SunsetThumb.png",
 	"collections":"Realistic"
+	},
+	  {
+	"name": "Minimal Circuits",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minimal%20Circuits.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Minimal%20CircuitsThumb.png",
+	"collections":"Digital Art"
 	},
   {
 	"name": "Kayakers Club",
@@ -575,14 +623,6 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Peach%20JelloThumb.png",
 	"collections":"Realistic"
 	},
-  {
-	"name": "Layered Queen",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Layered%20Queen.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Layered%20QueenThumb.png",
-	"collections":"Digital Art"
-	},
 {
 	"name": "Relaxing",
 	"author": "Yash",
@@ -615,6 +655,22 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Mandalorian%20DesertThumb.png",
 	"collections":"Digital Art"
 	},
+	  {
+	"name": "Pastel Flowers",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Pastel%20Flowers.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Pastel%20FlowersThumb.png",
+	"collections":"Digital Art"
+	},
+{
+	"name": "View into Oblivion",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/View%20into%20Oblivion.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/View%20into%20OblivionThumb.png",
+	"collections":"Outer Space"
+	},
 {
 	"name": "Mesmerising",
 	"author": "Yash",
@@ -637,14 +693,6 @@
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minima.png",
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/MinimaThumb.png",
-	"collections":"Digital Art"
-	},
-  {
-	"name": "Minimal Circuits",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minimal%20Circuits.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Minimal%20CircuitsThumb.png",
 	"collections":"Digital Art"
 	},
 {
@@ -719,6 +767,14 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Through%20WaterThumb.png",
 	"collections":"Realistic"
 	},
+	  {
+	"name": "WolfBrother",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/WolfBrother.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/WolfBrotherThumb.png",
+	"collections":"Animals"
+	},
   {
 	"name": "Mountain Layers",
 	"author": "Yash",
@@ -734,6 +790,14 @@
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Two%20SeasonsThumb.png",
 	"collections":"Realistic"
+	},
+	  {
+	"name": "Swirly Blue",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Swirly%20Blue.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Swirly%20BlueThumb.png",
+	"collections":"Digital Art"
 	},
   {
 	"name": "Mountain Scene",
@@ -792,6 +856,14 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/PaleThumb.png",
 	"collections":"Digital Art"
 	},
+	  {
+	"name": "Pink Tentacles",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Pink%20Tentacles.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Pink%20TentaclesThumb.png",
+	"collections":"Animals"
+	},
 {
 	"name": "WaterFall",
 	"author": "Yash",
@@ -815,14 +887,6 @@
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/White%20WatersThumb.png",
 	"collections":"Realistic"
-	},
-  {
-	"name": "Pastel Flowers",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Pastel%20Flowers.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Pastel%20FlowersThumb.png",
-	"collections":"Digital Art"
 	},
 {
 	"name": "Pastel Sledge",
@@ -960,14 +1024,6 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SunsetThumb.png",
 	"collections":"Digital Art"
 	},
-  {
-	"name": "Swirly Blue",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Swirly%20Blue.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Swirly%20BlueThumb.png",
-	"collections":"Digital Art"
-	},
 {
 	"name": "Tan Canyon",
 	"author": "Yash",
@@ -1081,14 +1137,6 @@
 	"collections":"Outer Space"
 	},
 {
-	"name": "Outer Worlds",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Outer%20Worlds.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Outer%20WorldsThumb.png",
-	"collections":"Outer Space"
-	},
-{
 	"name": "Scifi Poster",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Scifi%20Poster.png",
@@ -1118,22 +1166,6 @@
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Spaceman.png",
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SpacemanThumb.png",
-	"collections":"Outer Space"
-	},
-{
-	"name": "Spaceship",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Spaceship.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SpaceshipThumb.png",
-	"collections":"Outer Space"
-	},
-{
-	"name": "View into Oblivion",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/View%20into%20Oblivion.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/View%20into%20OblivionThumb.png",
 	"collections":"Outer Space"
 	},
 {
@@ -1168,14 +1200,6 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Isometric%20BuildingThumb.png",
 	"collections":"Architecture"
 	},
-  {
-	"name": "Minimal Building",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minimal%20Building.png",
-	"copyright": "Personal Use",
-    "thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Minimal%20BuildingThumb.png",
-	"collections":"Architecture"
-	},
    {
 	"name": "Wild Stripes",
 	"author": "Yash",
@@ -1193,14 +1217,6 @@
 	"collections":"Animals"
 	},
   {
-	"name": "Fiery Girraffe",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Fiery%20Girraffe.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Fiery%20GirraffeThumb.png",
-	"collections":"Animals"
-	},
-  {
 	"name": "Gorgeous Giraffe",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Gorgeous%20Giraffe.png",
@@ -1214,22 +1230,6 @@
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Majestic%20Zebra.png",
 	"copyright": "Personal Use",
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Majestic%20ZebraThumb.png",
-	"collections":"Animals"
-	},
-  {
-	"name": "Pink Tentacles",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Pink%20Tentacles.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Pink%20TentaclesThumb.png",
-	"collections":"Animals"
-	},
-  {
-	"name": "WolfBrother",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/WolfBrother.png",
-	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/WolfBrotherThumb.png",
 	"collections":"Animals"
 	},
   {
