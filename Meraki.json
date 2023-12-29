@@ -55,12 +55,12 @@
 	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/CanyonThumb.png",
 	"collections":"Digital Art"
 	},
-	  {
-	"name": "Desert Sunset",
+  {
+	"name": "Desert",
 	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Desert%20Sunset.png",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Desert.png",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Desert%20SunsetThumb.png",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/DesertThumb.png",
 	"collections":"Realistic"
 	},
 	{
@@ -200,11 +200,11 @@
 	"collections":"Digital Art"
 	},
   {
-	"name": "Desert",
+	"name": "Desert Sunset",
 	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Desert.png",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Desert%20Sunset.png",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/DesertThumb.png",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Desert%20SunsetThumb.png",
 	"collections":"Realistic"
 	},
   {
