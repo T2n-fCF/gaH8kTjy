@@ -1,5 +1,37 @@
 [
  {
+	"name": "Blossom",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Blossom.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/BlossomThumb.png",
+	"collections":"Realistic"
+	},
+	 {
+	"name": "Grassfields",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Grassfields.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/GrassfieldsThumb.png",
+	"collections":"Digital Art"
+	},
+	 {
+	"name": "Galactic",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Galactic.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/GalacticThumb.png",
+	"collections":"Outer Space"
+	},
+	 {
+	"name": "Minimal Wall",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Minimal Wall.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Minimal WallThumb.png",
+	"collections":"Digital Art"
+	},
+ {
 	"name": "Bloom",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Bloom.png",
