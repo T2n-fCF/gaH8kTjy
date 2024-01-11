@@ -1,5 +1,29 @@
 [
 {
+	"name": "Cactus",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Cactus.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/CactusThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Chrome Delta",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Chrome Delta.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Chrome DeltaThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Rainforest",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Rainforest.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/RainforestThumb.png",
+	"collections":"Digital Art"
+	},
+{
 	"name": "Snowy Cabin",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Snowy Cabin.png",
