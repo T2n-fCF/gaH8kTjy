@@ -1,5 +1,45 @@
 [
  {
+	"name": "Machinery",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Machinery.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/MachineryThumb.png",
+	"collections":"Realistic"
+	},
+	 {
+	"name": "Marble Rocks",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Marble Rocks.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Marble RocksThumb.png",
+	"collections":"Paintings"
+	},
+	 {
+	"name": "Melancholy",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Melancholy.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/MelancholyThumb.png",
+	"collections":"Outer Space"
+	},
+	 {
+	"name": "Romantic Colors",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Romantic Colors.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Romantic ColorsThumb.png",
+	"collections":"Paintings"
+	},
+	 {
+	"name": "Gorgeous View",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Gorgeous View.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Gorgeous ViewThumb.png",
+	"collections":"Paintings"
+	},
+ {
 	"name": "Canyon View",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Canyon View.png",
