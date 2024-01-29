@@ -1,5 +1,37 @@
 [
  {
+	"name": "Tangerine",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Tangerine.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/TangerineThumb.png",
+	"collections":"Realistic"
+	},
+	 {
+	"name": "Serene Landscape",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Serene Landscape.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Serene LandscapeThumb.png",
+	"collections":"Digital Art"
+	},
+	 {
+	"name": "Treetops",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Treetops.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/TreetopsThumb.png",
+	"collections":"Realistic"
+	},
+	 {
+	"name": "Peach Canyon",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Peach Canyon.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Peach CanyonThumb.png",
+	"collections":"Digital Art"
+	},
+ {
 	"name": "Machinery",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Machinery.png",
