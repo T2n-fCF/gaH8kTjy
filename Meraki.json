@@ -1,4 +1,37 @@
 [
+
+ {
+	"name": "Lounging",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Lounging.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/LoungingThumb.png",
+	"collections":"Realistic"
+	},
+	 {
+	"name": "Three Seasons",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Three Seasons.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Three SeasonsThumb.png",
+	"collections":"Digital Art"
+	},
+	 {
+	"name": "Marbleous",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Marbleous.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/MarbleousThumb.png",
+	"collections":"Paintings"
+	},
+	 {
+	"name": "Standing Tall",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Standing Tall.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Standing TallThumb.png",
+	"collections":"Architecture"
+	},
  {
 	"name": "Tangerine",
 	"author": "Yash",
