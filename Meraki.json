@@ -1,5 +1,36 @@
 [
-
+ {
+	"name": "Look Up",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Look Up.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Look UpThumb.png",
+	"collections":"Realistic"
+	},
+	 {
+	"name": "Sandstone",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Sandstone.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SandstoneThumb.png",
+	"collections":"Realistic"
+	},
+	 {
+	"name": "Spacex",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Spacex.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SpacexThumb.png",
+	"collections":"Outer Space"
+	},
+	 {
+	"name": "Diner",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Diner.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/DinerThumb.png",
+	"collections":"Realistic"
+	},
  {
 	"name": "Lounging",
 	"author": "Yash",
