@@ -1,5 +1,77 @@
 [
 {
+	"name": "Ambient",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Ambient.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/AmbientThumb.png",
+	"collections":"Realistic"
+	},
+{
+	"name": "Grid",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Grid.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/GridThumb.png",
+	"collections":"Architecture"
+	},
+{
+	"name": "Edge",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Edge.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/EdgeThumb.png",
+	"collections":"Realistic"
+	},
+{
+	"name": "Night Lights",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Night Lights.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Night LightsThumb.png",
+	"collections":"Architecture"
+	},
+{
+	"name": "Standing Alone",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Standing Alone.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Standing AloneThumb.png",
+	"collections":"Realistic"
+	},
+{
+	"name": "Metropolis",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Metropolis.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/MetropolisThumb.png",
+	"collections":"Architecture"
+	},
+{
+	"name": "Top View",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Top View.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Top ViewThumb.png",
+	"collections":"Architecture"
+	},
+{
+	"name": "Rings",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Rings.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/RingsThumb.png",
+	"collections":"Realistic"
+	},
+{
+	"name": "Tile",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Tile.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/TileThumb.png",
+	"collections":"Digital Art"
+	},	
+{
 	"name": "Bonding",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Bonding.png",
