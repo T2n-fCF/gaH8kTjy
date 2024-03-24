@@ -1,5 +1,45 @@
 [
 {
+	"name": "Cyberpunk",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Cyberpunk.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/CyberpunkThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Waterways",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Waterways.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/WaterwaysThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Planetary",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Planetary.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/PlanetaryThumb.png",
+	"collections":"Outer Space"
+	},
+	{
+	"name": "Lavander Landscape",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Lavander Landscape.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Lavander LandscapeThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Black Sand",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Black Sand.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Black SandThumb.png",
+	"collections":"Realistic"
+	},	
+{
 	"name": "Neon Vibes",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Neon Vibes.png",
