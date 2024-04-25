@@ -1,58 +1,142 @@
 [
-
  {
-	"name": "Lush",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lush.png",
+	"name": "Archway",
+	"author": "Eslie Rodriguez",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Archway.jpg",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LushThumb.png",
-	"collections":"Liquid"
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/ArchwayThumb.jpg"
 	},
-  {
-	"name": "Silverwing",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Silverwing.png",
+ {
+	"name": "Bayview",
+	"author": "Philip John",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Bayview.jpg",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SilverwingThumb.png",
-	"collections":"Liquid"
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/BayviewThumb.jpg"
 	},
-  {
-	"name": "Linen",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Linen.png",
+	 {
+	"name": "Falls",
+	"author": "Billy Huynh",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Falls.jpg",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LinenThumb.png",
-	"collections":"Texture"
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/FallsThumb.jpg"
 	},
-
-
-
-
-
-  {
-	"name": "Monochrome",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Monochrome.png",
+	 {
+	"name": "Apple is Medicine",
+	"author": "Moksym Mozur",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Apple%20is%20Medicine.jpg",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MonochromeThumb.png",
-	"collections":"Liquid"
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/Apple%20is%20MedicineThumb.jpg"
 	},
-
-
-
-
-  {
-	"name": "Lavender Bliss",
-	"author": "Yash",
-	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Emerald%20Elegance.png",
+	 {
+	"name": "Canyon",
+	"author": "Mahdi Soheili",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Canyon.jpg",
 	"copyright": "Personal Use",
-	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Emerald%20EleganceThumb.png",
-	"collections":"Liquid"
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/CanyonThumb.jpg"
 	},
-
-
-
-
-
-
+	 {
+	"name": "Foggy",
+	"author": "Eberhard Grossgasteiger",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Foggy.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/FoggyThumb.jpg"
+	},
+	 {
+	"name": "Folds",
+	"author": "Pawel Czerwinski",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Folds.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/FoldsThumb.jpg"
+	},
+	 {
+	"name": "Foliage",
+	"author": "Bravingbird",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Foliage.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/FoliageThumb.jpg"
+	},
+	 {
+	"name": "Gloomy",
+	"author": "Unsplash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Gloomy.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/GloomyThumb.jpg"
+	},
+	 {
+	"name": "Leaves",
+	"author": "Mike Hindle",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Leaves.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/LeavesThumb.jpg"
+	}.
+	 {
+	"name": "Modernism",
+	"author": "Possessed Photography",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Modernism.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/ModernismThumb.jpg"
+	},
+ {
+	"name": "Natures Wrath",
+	"author": "Mike Ko",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Natures Wrath.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/Natures WrathThumb.jpg"
+	},
+	 {
+	"name": "Pastel Pool",
+	"author": "Luke Witter",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Pastel Pool.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/Pastel PoolThumb.jpg"
+	},
+	 {
+	"name": "Pattern",
+	"author": "Ben Curry",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Pattern.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/PatternThumb.jpg"
+	},
+	 {
+	"name": "Rocks",
+	"author": "Clarisse Meyer",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Rocks.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/RocksThumb.jpg"
+	},
+	 {
+	"name": "Sandy",
+	"author": "Romain Dancre",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Sandy.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/SandyThumb.jpg"
+	},
+	 {
+	"name": "Serene",
+	"author": "Ryan Shumway",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Serene.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/SereneThumb.jpg"
+	},
+	 {
+	"name": "Snowy Dunes",
+	"author": "Eugene Golovesov",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Snowy Dunes.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/Snowy DunesThumb.jpg"
+	},
+	 {
+	"name": "Surf",
+	"author": "Unsplash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Surf.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/SurfThumb.jpg"
+	},
+	 {
+	"name": "Tropical",
+	"author": "David Becker",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Tropical.jpg",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/candyssof/main/Thumbs/TropicalThumb.jpg"
+	}
 ]
