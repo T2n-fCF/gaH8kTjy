@@ -1,5 +1,84 @@
 [
-
+{
+	"name": "Kitty",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Kitty.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/KittyThumb.png",
+	"collections":"Animals"
+	},
+	{
+	"name": "Sundowner",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Sundowner.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SundownerThumb.png",
+	"collections":"Reaistic"
+	},
+	{
+	"name": "Mountain Bliss",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Mountain Bliss.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Mountain BlissThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "New World",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/New World.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/New WorldThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Black Cat",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Black Cat.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Black CatThumb.png",
+	"collections":"Animals"
+	},
+	{
+	"name": "Hues",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Hues.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/HuesThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Into Clouds",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Into Clouds.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Into CloudsThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Norweigian Skies",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Norweigian Skies.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Norweigian SkiesThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Pup",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Pup.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/PupThumb.png",
+	"collections":"Animals"
+	},
+	{
+	"name": "Melting Glacier",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Melting Glacier.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Melting GlacierThumb.png",
+	"collections":"Realistic"
+	},
 {
 	"name": "Autumn Layers",
 	"author": "Yash",
