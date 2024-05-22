@@ -1,4 +1,37 @@
 [
+
+{
+	"name": "Coffee Time",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Coffee Time.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Coffee TimeThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Veil of Twilight",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Veil of Twilight.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Veil of TwilightThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Underwater Life",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Underwater Life.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Underwater LifeThumb.png",
+	"collections":"Animals"
+	},
+	{
+	"name": "Rosy",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Rosy.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/RosyThumb.png",
+	"collections":"Realistic"
+	},
 {
 	"name": "Kitty",
 	"author": "Yash",
