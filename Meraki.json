@@ -1,4 +1,86 @@
 [
+
+
+	{
+	"name": "Amber Wall",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Amber Wall.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Amber WallThumb.png",
+	"collections":"Architecture"
+	},
+		{
+	"name": "Sakura",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Sakura.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SakuraThumb.png",
+	"collections":"Painting"
+	},
+		{
+	"name": "Beautiful Sandscape",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Beautiful Sandscape.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Beautiful SandscapeThumb.png",
+	"collections":"Realistic"
+	},
+		{
+	"name": "Travel Services",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Travel Services.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Travel ServicesThumb.png",
+	"collections":"Digital Art"
+	},
+		{
+	"name": "Roaring Falls",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Roaring Falls.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Roaring FallsThumb.png",
+	"collections":"Painting"
+	},
+		{
+	"name": "Furry Family",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Furry Family.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Furry FamilyThumb.png",
+	"collections":"Animals"
+	},
+		{
+	"name": "Alpine Lake",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Alpine Lake.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Alpine LakeThumb.png",
+	"collections":"Realistic"
+	},
+		{
+	"name": "Gateway",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Gateway.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/GatewayThumb.png",
+	"collections":"Architecture"
+	},
+		{
+	"name": "Glorious Dunes",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Glorious Dunes.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Glorious DunesThumb.png",
+	"collections":"Realistic"
+	},
+		{
+	"name": "Travel Card",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Travel Card.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Travel CardThumb.png",
+	"collections":"Digital Art"
+	},
 {
 	"name": "Amazing Autumn",
 	"author": "Yash",
