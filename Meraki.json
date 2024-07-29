@@ -1,6 +1,86 @@
 [
 
 
+{
+	"name": "Spiral",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Spiral.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SpiralThumb.png",
+	"collections":"Architecture"
+	},
+	{
+	"name": "Dandelions",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Dandelions.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/DandelionsThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Pine Forest",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Pine Forest.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Pine ForestThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Surreal Homes",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Surreal Homes.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Surreal HomesThumb.png",
+	"collections":"Architecture"
+	},
+	{
+	"name": "Boulders",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Boulders.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/BouldersThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Swirling Dunes",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Swirling Dunes.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Swirling DunesThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Lights",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Lights.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/LightsThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Retro Tech",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Retro Tech.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Retro TechThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Dystopian Louvre",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Dystopian Louvre.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Dystopian LouvreThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Uzbek Architecture",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Uzbek Architecture.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Uzbek ArchitectureThumb.png",
+	"collections":"Architecture"
+	},
 	{
 	"name": "Amber Wall",
 	"author": "Yash",
