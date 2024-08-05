@@ -1,6 +1,44 @@
 [
-
-
+{
+	"name": "Dusky Desert",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Dusky Desert.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Dusky DesertThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Swirly Landscape",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Swirly Landscape.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Swirly LandscapeThumb.png",
+	"collections":"Paintings"
+	},
+	{
+	"name": "Volcanic River",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Volcanic River.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Volcanic RiverThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Prestine Stay",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Prestine Stay.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Prestine StayThumb.png",
+	"collections":"Architecture"
+	},
+	{
+	"name": "Golden Canyon",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Golden Canyon.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Golden CanyonThumb.png",
+	"collections":"Realistic"
+	},
 {
 	"name": "Spiral",
 	"author": "Yash",
