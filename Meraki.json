@@ -1,5 +1,45 @@
 [
 {
+	"name": "Tulip Field",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Tulip Field.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Tulip FieldThumb.png",
+	"collections":"Paintings"
+	},
+	{
+	"name": "Paper Aquarium",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Paper Aquarium.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Paper AquariumThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Freshness",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Freshness.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/FreshnessThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Into the Storm",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Into the Storm.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Into the StormThumb.png",
+	"collections":"Digital art"
+	},
+	{
+	"name": "Cloudy Beach",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Cloudy Beach.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Cloudy BeachThumb.png",
+	"collections":"Realistic"
+	},	
+{
 	"name": "Dusky Desert",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Dusky Desert.png",
