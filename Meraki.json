@@ -1,5 +1,37 @@
 [
 {
+	"name": "Alps",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Alps.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/AlpsThumb.png",
+	"collections":"Digital Art"
+	},
+	{
+	"name": "Hyperlapse",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Hyperlapse.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/HyperlapseThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Countryside",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Countryside.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/CountrysideThumb.png",
+	"collections":"Paintings"
+	},
+	{
+	"name": "Mighty Falls",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Mighty Falls.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Mighty FallsThumb.png",
+	"collections":"Paintings"
+	},
+{
 	"name": "Tulip Field",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Tulip Field.png",
