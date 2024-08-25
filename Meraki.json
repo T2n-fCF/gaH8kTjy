@@ -1,5 +1,37 @@
 [
 {
+	"name": "Jungle Detective",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Jungle Detective.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/Jungle DetectiveThumb.png",
+	"collections":"Animals"
+	},
+	{
+	"name": "Azure",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Azure.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/AzureThumb.png",
+	"collections":"Realistic"
+	},
+	{
+	"name": "Spiral",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Spiral.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/SpiralThumb.png",
+	"collections":"Architecture"
+	},
+	{
+	"name": "Vase",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Vase.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Thumbs/VaseThumb.png",
+	"collections":"Realistic"
+	},
+{
 	"name": "Alps",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/T2n-fCF/Wasensee/master/Alps.png",
